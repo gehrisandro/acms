@@ -10,8 +10,8 @@ A modern Laravel and Vue.js based Content Management System
 Begin by cloning this repository to your machine, and installing all Composer & NPM dependencies.
 
 ```bash
-git clone git@github.com:JeffreyWay/council.git
+git clone git@github.com:sangeh/acms.git
 cd council && composer install && npm install
-php artisan council:install
+php artisan app:install
 npm run dev
 ```
